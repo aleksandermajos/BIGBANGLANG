@@ -1,0 +1,5 @@
+Looking in links: https://download.pytorch.org/whl/torch_stable.html
+Requirement already satisfied: torchaudio in c:\users\hapir\anaconda3\envs\bigai\lib\site-packages (0.8.1)
+Requirement already satisfied: torch==1.8.1 in c:\users\hapir\anaconda3\envs\bigai\lib\site-packages (from torchaudio) (1.8.1)
+Requirement already satisfied: typing_extensions in c:\users\hapir\anaconda3\envs\bigai\lib\site-packages (from torch==1.8.1->torchaudio) (3.7.4.3)
+Requirement already satisfied: numpy in c:\users\hapir\anaconda3\envs\bigai\lib\site-packages (from torch==1.8.1->torchaudio) (1.19.2)
